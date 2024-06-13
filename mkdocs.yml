@@ -1,11 +1,11 @@
-site_name: EOEPCA Document Template
-site_url: https://eoepca.readthedocs.io/projects/template/en/latest/
+site_name: EOEPCA Application Hub Building Block
+site_url: https://eoepca.readthedocs.io/projects/application-hub/
 repo_url: https://github.com/EOEPCA/document-template/
 edit_uri: "edit/main/docs/"
 
 nav:
   - Home: home.html
-  - Building-block Name:
+  - Application Hub:
     - index.md
     - Getting Started:
       - getting-started/quick-start.md
