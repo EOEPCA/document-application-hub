@@ -22,13 +22,6 @@ In this scenario, developers access the Application Hub to access a software dev
 
 In this scenario, developers can also package their EO applications along with necessary configurations and dependencies. Overall, developers can integrate, build, test, and debug their EO applications seamlessly before transitioning to the deployment phase, aided by features like version control, continuous integration, and GitLab integration.
 
-###​ Hosting Scenario
-
-Stakeholder: Service Providers and Developers
-
-After the development phase, the Application Hub acts as a conduit to transition EO applications into production. The platform supports multiple deployment options, including OGC API—Processes compliant web services. This hosting scenario provides a flexible and efficient environment for both service providers and developers, enabling them to host, manage and monitor their applications. 
-In this scenario service providers and developers are supported to handle the hosting, scalability, and compliance necessities of the EO applications, ultimately fast-tracking the deployment and ensuring their reliability and performance.
-
 ###​ Execution Scenario
 
 Stakeholder: End-users (Scientists, Researchers, EO Community Members)
