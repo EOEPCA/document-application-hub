@@ -4,7 +4,7 @@ The Application Hub is a comprehensive and modular platform delivering SaaS prod
 
 At the heart of the Application Hub is the ability to manage the delivery of work environments and tools for a wide range of user tasks, such as develop, host, execute, and perform exploratory analysis of EO applications, all managed within a single, unified Cloud infrastructure.
 
-## About `<BB>`
+## About the Application Hub Building Block
 
 The Application Hub, leveraging Kubernetes and JupyterHub, creates a robust, scalable, and user-centric platform for Earth Observation (EO) applications and analytics. Kubernetes ensures scalable operation of containerized applications by managing deployment, operation, and traffic distribution, while JupyterHub orchestrates the launching, scaling, and management of application instances, acting as the primary gateway for user requests. The Hub uses dedicated namespaces for each application pod, ensuring organization, security, and isolation. It also dynamically configures application pods based on the task, and personalizes the experience based on user profiles through Kube Spawner. This design ensures the Application Hub remains modular, scalable, and capable of catering to the dynamic requirements of EO tasks.
 
