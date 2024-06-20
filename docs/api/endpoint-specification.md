@@ -1,3 +1,3 @@
 # Specification
 
-Details of the API specification.
+Coming soon.
